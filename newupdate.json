@@ -1,0 +1,1 @@
+{"trigger": "airtable_record_updated", "action": "send_webhook", "webhook_url": "https://hooks.zapier.com/hooks/catch/15755862/3dzahqb/", "base_key": "appIyoA4h0BSk8HTO", "table_name": "tblmy5ULvII8rYjLM", "api_key": "keyf4kBeqvNJojN9k", "field_name": null, "text_to_find": null, "name": "newupdate"}
